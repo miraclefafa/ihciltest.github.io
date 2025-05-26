@@ -30,8 +30,8 @@ graph LR
 ## 🌟 标志性成果
 | 成果 | 可视化 | 应用 |
 |------|--------|------|
-| **LLRM-1模型** | ![模型输出示例](static/report_gen.png) | 中央气象台部署 |
-| **浪高预测系统** | ![浪高动画](static/wave_height.gif) | 南海航运预警 |
+| **Radar_LM** | ![30分钟](WatchDogFloder/30.gif) | 雷达回波外推30min预报 |
+| **Radar_LM** | ![60分钟](WatchDogFloder/60.gif) | 雷达回波外推60min预报 |
 
 ## 🎓 团队风采
 <div class="gallery">
